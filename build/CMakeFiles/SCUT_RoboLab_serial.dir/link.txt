@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/SCUT_RoboLab_serial.dir/serial.cpp.o  -o SCUT_RoboLab_serial 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jhees/Desktop/git/SCUT_RoboLab_serial/serial.cpp
+iostream
+-
+unistd.h
+-
+errno.h
+-
+fcntl.h
+-
+termios.h
+-
+
